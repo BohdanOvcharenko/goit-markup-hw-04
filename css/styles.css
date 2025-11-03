@@ -311,3 +311,15 @@ img{
 
 
 /* #endregion container 3dz */
+
+/* #region 4dz */
+
+.section-title{
+    background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-people-office.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+/* #endregion 4gz */
